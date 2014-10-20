@@ -29,7 +29,7 @@
         - fBodyGyroMag
         - fBodyGyroJerkMag
         
-#####4) We are to also take note of the subject_id which has interger values 1 to 30.
+#####4) The subject_id has interger values 1 to 30.
 #####5) Using the complied data, we will extract the following stated requirements for the "tiny_data_set.txt" for the assignment.
         - mean(): Mean value
         - std(): Standard deviation
