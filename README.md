@@ -1,9 +1,3 @@
----
-title: "README.md"
-author: "thaddy.teo"
-date: "20 October, 2014"
-output: html_document
----
 
 ##Getting and Cleaning Data: Course Project
 

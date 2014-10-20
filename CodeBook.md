@@ -1,10 +1,3 @@
----
-title: "CodeBook.md"
-author: "thaddy.teo"
-date: "20 October, 2014"
-output: html_document
----
-
 ####Data Source for Getting and Cleaning Data: Course Project : 
 ####http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 ####Download source : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
