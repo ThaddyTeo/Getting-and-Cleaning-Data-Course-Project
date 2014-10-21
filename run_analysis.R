@@ -99,5 +99,5 @@ if (!require("reshape2")) {
         write.table(dataFinal,"./UCI HAR Dataset/tidy_data_set.txt", row.name=FALSE)
         
         ##end of Step 3
-        print ("Successful!")
+        print ("Success! tidy_data_set.txt is now available.")
 }
